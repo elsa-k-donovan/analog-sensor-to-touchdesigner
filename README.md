@@ -1,2 +1,8 @@
-# analog-sensor-to-touchdesigner
-How to connect an analog sensor to Touchdesigner using OSC via wifi. 
+# Sensor Network Cookbook 📔
+
+How to make an analog sensor network and connect it to Touchdesigner using OSC. 
+
+- Recipe 1: Electronic Schema
+- Recipe 2: Arduino Code
+- Recipe 3: Touchdesigner Setup
+
