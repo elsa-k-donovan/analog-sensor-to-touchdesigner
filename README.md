@@ -1,4 +1,4 @@
-# Sensor Network Cookbook 📔
+# The Sensor Network Cookbook 📔
 
 How to make an analog sensor network and connect it to Touchdesigner using OSC. 
 
